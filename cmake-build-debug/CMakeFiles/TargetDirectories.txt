@@ -1,0 +1,3 @@
+D:/Desktop/serverChat/cmake-build-debug/CMakeFiles/serverChat.dir
+D:/Desktop/serverChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/serverChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
