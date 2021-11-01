@@ -40,6 +40,7 @@ int main()
             cout << "fail connection, enter ip address: ";
             cin >> ipAddress;
         }
+        cout << "successful connection" << endl;
     }
     vector<sf::TcpSocket *> clients;
     bool isServerDown = false;
@@ -81,18 +82,18 @@ int main()
                 if (m != "")
                     cout << n << ':' << m << endl;
             }
-            sf::TcpSocket s1;
             if(type == 's')
             {
                 for(int i = 0; i < clients.size(); ++i)
                 {
-                    if(clients[i]->receive(packet) == sf::Socket::Disconnected)
+                    sf::Socket::Status status = clients[i]->receive(packet);
+                    if(status == sf::Socket::Disconnected)
                     {
                         cout << clients[i]->getRemotePort() << " disconnected" << endl;
                         delete clients[i];
                         clients.erase(clients.begin() + i);
                     }
-                    else
+                    else if(status == sf::Socket::Done)
                     {
                         packet >> n >> m;
                         if (m != "")
