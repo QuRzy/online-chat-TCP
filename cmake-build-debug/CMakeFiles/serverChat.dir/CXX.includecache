@@ -6,3 +6,321 @@
 
 #IncludeRegexTransform: 
 
+C:/Program Files/SFML/include/SFML/Config.hpp
+TargetConditionals.h
+C:/Program Files/SFML/include/SFML/TargetConditionals.h
+
+C:/Program Files/SFML/include/SFML/Network.hpp
+SFML/System.hpp
+-
+SFML/Network/Ftp.hpp
+-
+SFML/Network/Http.hpp
+-
+SFML/Network/IpAddress.hpp
+-
+SFML/Network/Packet.hpp
+-
+SFML/Network/Socket.hpp
+-
+SFML/Network/SocketHandle.hpp
+-
+SFML/Network/SocketSelector.hpp
+-
+SFML/Network/TcpListener.hpp
+-
+SFML/Network/TcpSocket.hpp
+-
+SFML/Network/UdpSocket.hpp
+-
+
+C:/Program Files/SFML/include/SFML/Network/Export.hpp
+SFML/Config.hpp
+-
+
+C:/Program Files/SFML/include/SFML/Network/Ftp.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/TcpSocket.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Time.hpp
+-
+string
+-
+vector
+-
+
+C:/Program Files/SFML/include/SFML/Network/Http.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/IpAddress.hpp
+-
+SFML/Network/TcpSocket.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Time.hpp
+-
+map
+-
+string
+-
+
+C:/Program Files/SFML/include/SFML/Network/IpAddress.hpp
+SFML/Network/Export.hpp
+-
+SFML/System/Time.hpp
+-
+istream
+-
+ostream
+-
+string
+-
+
+C:/Program Files/SFML/include/SFML/Network/Packet.hpp
+SFML/Network/Export.hpp
+-
+string
+-
+vector
+-
+
+C:/Program Files/SFML/include/SFML/Network/Socket.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/SocketHandle.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+vector
+-
+
+C:/Program Files/SFML/include/SFML/Network/SocketHandle.hpp
+SFML/Config.hpp
+-
+basetsd.h
+-
+
+C:/Program Files/SFML/include/SFML/Network/SocketSelector.hpp
+SFML/Network/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Program Files/SFML/include/SFML/Network/TcpListener.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/Socket.hpp
+-
+SFML/Network/IpAddress.hpp
+-
+
+C:/Program Files/SFML/include/SFML/Network/TcpSocket.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/Socket.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Program Files/SFML/include/SFML/Network/UdpSocket.hpp
+SFML/Network/Export.hpp
+-
+SFML/Network/Socket.hpp
+-
+SFML/Network/IpAddress.hpp
+-
+vector
+-
+
+C:/Program Files/SFML/include/SFML/System.hpp
+SFML/Config.hpp
+-
+SFML/System/Clock.hpp
+-
+SFML/System/Err.hpp
+-
+SFML/System/FileInputStream.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Lock.hpp
+-
+SFML/System/MemoryInputStream.hpp
+-
+SFML/System/Mutex.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Sleep.hpp
+-
+SFML/System/String.hpp
+-
+SFML/System/Thread.hpp
+-
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.hpp
+-
+SFML/System/Time.hpp
+-
+SFML/System/Utf.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/Vector3.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/Clock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/Err.hpp
+SFML/System/Export.hpp
+-
+ostream
+-
+
+C:/Program Files/SFML/include/SFML/System/Export.hpp
+SFML/Config.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/FileInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdio
+-
+string
+-
+
+C:/Program Files/SFML/include/SFML/System/InputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/Lock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/MemoryInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Export.hpp
+-
+cstdlib
+-
+
+C:/Program Files/SFML/include/SFML/System/Mutex.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/NonCopyable.hpp
+SFML/System/Export.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/Sleep.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/String.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Utf.hpp
+-
+iterator
+-
+locale
+-
+string
+-
+SFML/System/String.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/String.inl
+
+C:/Program Files/SFML/include/SFML/System/Thread.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+SFML/System/Thread.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/Thread.inl
+
+C:/Program Files/SFML/include/SFML/System/ThreadLocal.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+
+C:/Program Files/SFML/include/SFML/System/ThreadLocalPtr.hpp
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/ThreadLocalPtr.inl
+
+C:/Program Files/SFML/include/SFML/System/Time.hpp
+SFML/System/Export.hpp
+-
+
+C:/Program Files/SFML/include/SFML/System/Utf.hpp
+SFML/Config.hpp
+-
+algorithm
+-
+locale
+-
+string
+-
+cstdlib
+-
+SFML/System/Utf.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/Utf.inl
+
+C:/Program Files/SFML/include/SFML/System/Vector2.hpp
+SFML/System/Vector2.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/Vector2.inl
+
+C:/Program Files/SFML/include/SFML/System/Vector3.hpp
+SFML/System/Vector3.inl
+-
+
+C:/Program Files/SFML/include/SFML/System/Vector3.inl
+
+D:/Desktop/serverChat/main.cpp
+iostream
+-
+SFML/Network.hpp
+-
+
